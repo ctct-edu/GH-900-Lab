@@ -46,7 +46,9 @@ GitHub Copilot の導入から実際の使い方までを、操作しながら�
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=getting-started-with-github-copilot&owner=%40me&name=skills-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public) を開きます。
 
-1. **Repository name** に `skills-getting-started-with-github-copilot` が入力されていることを確認し、**Owner** と公開範囲を選んで **Create repository** を選びます。
+1. 作成画面上部の **Owner** で自分の GitHub アカウントを選びます。その横の **Repository name** に `skills-getting-started-with-github-copilot` が入力されていることを確認します。公開範囲を確認し、画面下部の **Create repository** を選びます。
+
+   > 作成後は、ページ左上の所有者名が自分のアカウントになっていることを確認します。20秒ほど待って再読み込みし、**Code** タブのファイル一覧の下にある README を確認します。**Go to Exercise** が出たらクリックします。上部の **Issues** タブから演習 Issue を開くこともできます。
 
    > **注**　非公開リポジトリでは GitHub Actions の利用枠を消費するため、原文では公開リポジトリが推奨されています。作成後は20秒ほど待ってページを再読み込みします。
 

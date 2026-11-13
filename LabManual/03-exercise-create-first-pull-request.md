@@ -43,6 +43,8 @@ lab:
 
 1. ブラウザーで [演習リポジトリ](https://github.com/firstcontributions/first-contributions) を開きます。
 
+   > **画面での確認**　元のリポジトリの右上にある **Fork** を選びます。作成画面の **Owner** で自分のアカウントを選び、下部の **Create fork** を押します。作成後はページ左上の所有者名が自分のアカウントであることを確認します。ファイル一覧の右上にある緑色の **Code** ボタンを開き、**HTTPS** の URL をコピーしてから端末でクローンします。
+
 1. README の詳しい手順を読み、次の操作を行います。
 
    - ページ上部の **Fork** を選び、GitHub 上の自分のアカウントにリポジトリのコピーを作成します。
@@ -54,6 +56,8 @@ lab:
    - 元のプロジェクトに変更を提出するため、プルリクエストを作成します。
 
 1. リポジトリの説明と画面例を見ながら、各ステップを進めます。
+
+   > **送信前の確認**　プッシュ後は GitHub で自分のフォークを開き、**Compare & pull request** を選びます。比較画面で **base repository** が元の `firstcontributions/first-contributions`、変更元が自分のフォークと作業ブランチであることを確認します。差分に `Contributors.md` の自分の追加行が表示されてから **Create pull request** を選びます。
 
    > **注**　コマンドラインに不慣れな場合は、GitHub Desktop や Visual Studio Code など、画面上で操作するツールのチュートリアルも用意されています。
 
