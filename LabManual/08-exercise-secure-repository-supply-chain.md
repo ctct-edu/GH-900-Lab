@@ -21,7 +21,7 @@ lab:
 - 依存関係グラフの見方を理解する
 - セキュリティ上の推奨事項を実践する
 
-所要時間の目安は **30〜45分** です。
+研修での所要時間の目安は **40〜60分** です。初めて操作する受講者向けの見積もりです。Dependabot の検知と更新 PR の待ち時間を含みます。
 
 ## 始める前に
 
@@ -38,6 +38,8 @@ GitHub Skills の課題に沿って、リポジトリの依存関係を安全に
 > **注**　Dependabot を使って、依存関係の脆弱性を確認し、修正用のプルリクエストを自動で作成する流れを体験します。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=secure-repository-supply-chain&owner=%40me&name=skills-secure-repository-supply-chain&description=Exercise:+Secure+your+Repository+Supply+Chain&visibility=public) を開きます。
 

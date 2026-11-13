@@ -21,7 +21,7 @@ lab:
 - ブランチを使う
 - 共同作業の基本的な流れを体験する
 
-所要時間の目安は **5分** です。
+研修での所要時間の目安は **45〜60分** です。初めて操作する受講者向けの見積もりです。Codespace の初回起動と6ステップの自動判定を含みます。
 
 ## 始める前に
 
@@ -37,6 +37,8 @@ GitHub 上の案内に沿って課題に取り組み、Git の基本を身に付
 > **注**　演習は GitHub 上で進めます。リポジトリに表示される手順を順番に実行してください。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=introduction-to-git&owner=%40me&name=skills-introduction-to-git&description=Exercise:+Introduction+to+Git&visibility=public) を開きます。
 
@@ -67,6 +69,6 @@ GitHub 上の案内に沿って課題に取り組み、Git の基本を身に付
 
 ---
 
-**研修での補足**　最初のステップで Codespace を作成します。原文本文の目安は5分ですが、GitHub Skills 側の案内は60分未満です。[GitHub Skills 教材](https://github.com/skills/introduction-to-git) · [Step 1](https://github.com/skills/introduction-to-git/blob/main/.github/steps/1-step.md)
+**研修での補足**　最初のステップで Codespace を作成します。GitHub Skills 側の案内は60分未満です。[GitHub Skills 教材](https://github.com/skills/introduction-to-git) · [Step 1](https://github.com/skills/introduction-to-git/blob/main/.github/steps/1-step.md)
 
 出典は [MicrosoftLearning/mslearn-github の原文](https://github.com/MicrosoftLearning/mslearn-github/blob/main/Instructions/GH-900/01-exercise-try-out-git.md) です。原文の著作権表示と MIT ライセンスは [LICENSE](../LICENSE) に収録しています。

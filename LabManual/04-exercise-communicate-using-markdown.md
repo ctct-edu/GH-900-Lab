@@ -20,7 +20,7 @@ Markdown は、簡単な記号で文章の見た目を整える書き方です�
 - タスクリストを作成して進み具合を確認する
 - GitHub で Markdown を活用する
 
-所要時間の目安は **60分** です。
+研修での所要時間の目安は **40〜55分** です。初めて操作する受講者向けの見積もりです。5ステップの自動判定の待ち時間を含みます。
 
 ## 始める前に
 
@@ -37,6 +37,8 @@ GitHub Skills の課題に沿って文章を編集し、Markdown で書式を整
 > **注**　プレーンテキストのファイルを Markdown で整えます。作成したファイルは、GitHub Pages で自分のサイトを作る際にも使えます。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=Exercise%3A+Communicate+using+Markdown&visibility=public) を開きます。
 

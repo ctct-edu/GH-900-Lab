@@ -25,7 +25,7 @@ Visual Studio Code で GitHub Copilot を使い、AI が示すコード候補を
 - どのようなときに候補を採用できるか判断する
 - 開発作業に AI の支援を取り入れる
 
-所要時間の目安は **30〜45分** です。
+研修での所要時間の目安は **45〜60分** です。初めて操作する受講者向けの見積もりです。Codespace の初回起動と Copilot の応答を待つ時間を含みます。
 
 ## 始める前に
 
@@ -43,6 +43,8 @@ GitHub Copilot の導入から実際の使い方までを、操作しながら�
 > **注**　Microsoft Learn から始める演習です。GitHub Codespaces 内で Copilot を使えるようにし、指示を出してコード候補を得る方法や、AI の提案を開発に取り入れる際の推奨事項を学びます。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=getting-started-with-github-copilot&owner=%40me&name=skills-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public) を開きます。
 

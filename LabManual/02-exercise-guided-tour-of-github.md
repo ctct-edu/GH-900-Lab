@@ -21,7 +21,7 @@ GitHub で共同作業を始めるための基本を、1時間ほどで体験し
 - プルリクエストを作成する
 - プルリクエストをマージする
 
-所要時間の目安は **60分** です。
+研修での所要時間の目安は **30〜45分** です。初めて操作する受講者向けの見積もりです。ブランチ作成からマージ後の完了判定までを含みます。
 
 ## 始める前に
 
@@ -37,6 +37,8 @@ GitHub で共同作業を始めるための基本を、1時間ほどで体験し
 > **注**　GitHub Skills の演習です。リポジトリに表示される手順を進めると、操作の結果が自動で確認されます。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public) を開きます。
 

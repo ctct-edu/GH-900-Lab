@@ -24,7 +24,7 @@ GitHub Codespaces と Visual Studio Code を使い、クラウド上でコード
 - 開発環境を管理し、設定を変更する
 - クラウド上で開発する利点を理解する
 
-所要時間の目安は **30〜45分** です。
+研修での所要時間の目安は **45〜60分** です。初めて操作する受講者向けの見積もりです。Codespace の作成と再構築の待ち時間を含みます。
 
 ## 始める前に
 
@@ -41,6 +41,8 @@ GitHub Skills の課題に取り組みながら、Codespace の作り方と使�
 > **注**　Codespace を作成してコードを変更し、クラウド上の開発環境で作業する流れを体験します。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=code-with-codespaces&owner=%40me&name=skills-code-with-codespaces&description=Exercise:+Code+with+Codespaces&visibility=public) を開きます。
 

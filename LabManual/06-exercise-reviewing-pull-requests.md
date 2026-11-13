@@ -21,7 +21,7 @@ GitHub でプルリクエストをレビューします。コードレビュー�
 - プルリクエストを承認する
 - GitHub のレビュー機能を使う
 
-所要時間の目安は **30〜45分** です。
+研修での所要時間の目安は **25〜40分** です。初めて操作する受講者向けの見積もりです。担当者の設定、レビュー、修正案の適用、マージ後の判定を含みます。
 
 ## 始める前に
 
@@ -38,6 +38,8 @@ GitHub Skills の課題に沿って、プルリクエストをレビューする
 > **注**　コードにコメントを付けるなど、GitHub のレビュー機能を実際に使います。
 
 次の手順で進めます。
+
+> 演習 Issue に次のステップが表示されてから、そのステップの操作を行います。案内が出た直後は **Actions** タブで前の実行が完了したことも確認してください。今回の検証では1回の判定に数十秒かかりました。
 
 1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=review-pull-requests&owner=%40me&name=skills-review-pull-requests&description=Exercise%3A+Review+pull+requests&visibility=public) を開きます。
 
