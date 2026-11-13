@@ -44,7 +44,7 @@ GitHub Copilot の導入から実際の使い方までを、操作しながら�
 
 次の手順で進めます。
 
-1. 講師から案内された日本語版の演習リポジトリをブラウザーで開きます。[日本語版テンプレートの内容](Exercise-Repositories/getting-started-with-github-copilot/README.md)も参照できます。
+1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/getting-started-with-github-copilot) を開きます。
 
 1. **Use this template**（このテンプレートを使用）を選び、自分のアカウントにリポジトリのコピーを作成します。
 
@@ -82,6 +82,6 @@ GitHub Copilot の導入から実際の使い方までを、操作しながら�
 
 ---
 
-**研修での補足**　Copilot の利用条件は [講師用ガイド](../GH-900-講師用.md) を参照してください。[Microsoft Learn の原文の開始ページ](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/5-exercise)
+**研修での補足**　Copilot の利用条件は [GitHub Docs の Copilot プラン比較](https://docs.github.com/ja/copilot/get-started/plans) を参照してください。[Microsoft Learn の原文の開始ページ](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot/5-exercise)
 
 出典は [MicrosoftLearning/mslearn-github の原文](https://github.com/MicrosoftLearning/mslearn-github/blob/main/Instructions/GH-900/09-exercise-github-copilot-vscode.md) です。原文の著作権表示と MIT ライセンスは [LICENSE](../LICENSE) に収録しています。

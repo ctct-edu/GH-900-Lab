@@ -42,7 +42,7 @@ GitHub Skills の課題に取り組みながら、Codespace の作り方と使�
 
 次の手順で進めます。
 
-1. 講師から案内された日本語版の演習リポジトリをブラウザーで開きます。[日本語版テンプレートの内容](Exercise-Repositories/code-with-codespaces/README.md)も参照できます。
+1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/code-with-codespaces) を開きます。
 
 1. 演習ページの **Use this template**（このテンプレートを使用）を選び、自分の GitHub アカウントに演習のコピーを作成します。
 

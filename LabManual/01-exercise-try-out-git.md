@@ -38,9 +38,9 @@ GitHub 上の案内に沿って課題に取り組み、Git の基本を身に付
 
 次の手順で進めます。
 
-1. 講師から案内された日本語版の演習リポジトリをブラウザーで開きます。[日本語版テンプレートの内容](Exercise-Repositories/introduction-to-git/README.md)も参照できます。
+1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/introduction-to-git) を開きます。
 
-1. **Use this template** を選び、自分の GitHub アカウントに演習のコピーを作成します。
+1. **Use this template** → **Create a new repository** を選び、自分の GitHub アカウントに演習のコピーを作成します。
 
 1. リポジトリの README（最初に読む案内）に従って、すべての課題に取り組みます。
 

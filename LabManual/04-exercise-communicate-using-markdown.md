@@ -25,7 +25,7 @@ Markdown は、簡単な記号で文章の見た目を整える書き方です�
 ## 始める前に
 
 - GitHub アカウント。アカウントを持っていない方は、受講前に [新規登録](https://github.com/join) してください。手順は [GitHub アカウントの作成](https://docs.github.com/get-started/quickstart/creating-an-account-on-github) を参照してください。
-- プルリクエストの基本操作。初めての方は、先に [GitHub の入門演習](https://github.com/skills/introduction-to-github) に取り組むと進めやすくなります。
+- プルリクエストの基本操作。初めての方は、先に [GitHub の入門演習](02-exercise-guided-tour-of-github.md) に取り組むと進めやすくなります。
 - インターネットに接続できるブラウザー。
 
 ## GitHub で演習を進める
@@ -38,7 +38,7 @@ GitHub Skills の課題に沿って文章を編集し、Markdown で書式を整
 
 次の手順で進めます。
 
-1. 講師から案内された日本語版の演習リポジトリをブラウザーで開きます。[日本語版テンプレートの内容](Exercise-Repositories/communicate-using-markdown/README.md)も参照できます。
+1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/communicate-using-markdown) を開きます。
 
 1. 演習ページの **Use this template**（このテンプレートを使用）を選び、自分の GitHub アカウントに演習のコピーを作成します。
 
