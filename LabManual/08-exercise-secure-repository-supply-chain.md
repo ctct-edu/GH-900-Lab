@@ -39,13 +39,13 @@ GitHub Skills の課題に沿って、リポジトリの依存関係を安全に
 
 次の手順で進めます。
 
-1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/secure-repository-supply-chain) を開きます。
+1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=secure-repository-supply-chain&owner=%40me&name=skills-secure-repository-supply-chain&description=Exercise:+Secure+your+Repository+Supply+Chain&visibility=public) を開きます。
 
-1. 演習ページの **Use this template**（このテンプレートを使用）を選び、自分の GitHub アカウントに演習のコピーを作成します。
+1. **Repository name** に `skills-secure-repository-supply-chain` が入力されていることを確認し、**Owner** と公開範囲を選んで **Create repository** を選びます。
 
    > **注**　自分のアカウントにコピーを作成したら、最初の課題が用意されるまで20秒ほど待ってページを再読み込みします。
 
-1. リポジトリの README に従い、次の課題に取り組みます。
+1. 自分のコピーの README から演習 Issue を開き、日本語のステップ案内に従います。
 
    - ソフトウェアサプライチェーンのセキュリティとその重要性を理解する
    - リポジトリの Dependabot アラートを有効にする

@@ -44,13 +44,13 @@ GitHub Copilot の導入から実際の使い方までを、操作しながら�
 
 次の手順で進めます。
 
-1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/getting-started-with-github-copilot) を開きます。
+1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=getting-started-with-github-copilot&owner=%40me&name=skills-getting-started-with-github-copilot&description=Exercise:+Get+started+using+GitHub+Copilot&visibility=public) を開きます。
 
-1. **Use this template**（このテンプレートを使用）を選び、自分のアカウントにリポジトリのコピーを作成します。
+1. **Repository name** に `skills-getting-started-with-github-copilot` が入力されていることを確認し、**Owner** と公開範囲を選んで **Create repository** を選びます。
 
    > **注**　非公開リポジトリでは GitHub Actions の利用枠を消費するため、原文では公開リポジトリが推奨されています。作成後は20秒ほど待ってページを再読み込みします。
 
-1. リポジトリの README に従って、次の課題に取り組みます。
+1. 自分のコピーの README から演習 Issue を開き、日本語のステップ案内に従います。
 
    - GitHub Codespaces を使って GitHub Copilot をインストールする
    - Copilot に指示を出してコード候補を得る
@@ -59,7 +59,7 @@ GitHub Copilot の導入から実際の使い方までを、操作しながら�
    - AI の支援を開発に取り入れる際の推奨事項を学ぶ
    - Copilot の候補を採用できるか、自分で判断する
 
-1. README に表示される案内に従い、各ステップを進めます。
+1. 演習 Issue に表示される案内に従い、各ステップを進めます。
 
    > **注**　演習用ワークフローのファイルはそのまま使います。変更すると、操作の確認やフィードバックが正しく動かなくなることがあります。
 

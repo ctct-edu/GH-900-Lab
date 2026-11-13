@@ -41,9 +41,9 @@ GitHub Skills の課題に沿って、作業項目の関連付けや参照の方
 
 次の手順で進めます。
 
-1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/connect-the-dots) を開きます。
+1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=connect-the-dots&owner=%40me&name=skills-connect-the-dots&description=My+clone+repository&visibility=public) を開きます。
 
-1. 演習ページの **Use this template**（このテンプレートを使用）を選び、自分の GitHub アカウントに演習のコピーを作成します。
+1. **Repository name** に `skills-connect-the-dots` が入力されていることを確認し、**Owner** と公開範囲を選んで **Create repository** を選びます。
 
    > **注**　自分のアカウントにコピーを作成したら、最初の課題が用意されるまで20秒ほど待ってページを再読み込みします。
 

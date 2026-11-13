@@ -38,18 +38,18 @@ GitHub Skills の課題に沿って文章を編集し、Markdown で書式を整
 
 次の手順で進めます。
 
-1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/communicate-using-markdown) を開きます。
+1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=communicate-using-markdown&owner=%40me&name=skills-communicate-using-markdown&description=Exercise%3A+Communicate+using+Markdown&visibility=public) を開きます。
 
-1. 演習ページの **Use this template**（このテンプレートを使用）を選び、自分の GitHub アカウントに演習のコピーを作成します。
+1. **Repository name** に `skills-communicate-using-markdown` が入力されていることを確認し、**Owner** と公開範囲を選んで **Create repository** を選びます。
 
    > **注**　自分のアカウントにコピーを作成したら、最初の課題が用意されるまで20秒ほど待ってページを再読み込みします。
 
-1. リポジトリの README に従い、次の課題に取り組みます。
+1. 自分のコピーの README から演習 Issue を開き、日本語のステップ案内に従います。
 
    - 見出しを追加し、内容のまとまりと階層を分かりやすくする
-   - 画像を追加し、内容を視覚的に伝える
    - コードブロックを使ってコード例を載せる
    - タスクリストを作り、進み具合を確認する
+   - 画像を追加し、幅や位置を調整する
    - プルリクエストをマージして演習を終える
 
 1. Issue やプルリクエストに表示される案内に従い、順に課題を進めます。

@@ -39,13 +39,13 @@ GitHub Skills の課題に沿って、プルリクエストをレビューする
 
 次の手順で進めます。
 
-1. GitHub にサインインし、[日本語版の演習リポジトリ](https://github.com/ctct-edu/review-pull-requests) を開きます。
+1. GitHub にサインインし、[日本語版テンプレートから演習を作成する](https://github.com/new?template_owner=ctct-edu&template_name=review-pull-requests&owner=%40me&name=skills-review-pull-requests&description=Exercise%3A+Review+pull+requests&visibility=public) を開きます。
 
-1. 演習ページの **Use this template**（このテンプレートを使用）を選び、自分の GitHub アカウントに演習のコピーを作成します。
+1. **Repository name** に `skills-review-pull-requests` が入力されていることを確認し、**Owner** と公開範囲を選んで **Create repository** を選びます。
 
    > **注**　自分のアカウントにコピーを作成したら、最初の課題が用意されるまで20秒ほど待ってページを再読み込みします。
 
-1. リポジトリの README に従い、次の課題に取り組みます。
+1. 自分のコピーの README から演習 Issue を開き、日本語のステップ案内に従います。
 
    - レビューの流れと重要性を理解する
    - プルリクエストでコードの変更箇所を確認する
